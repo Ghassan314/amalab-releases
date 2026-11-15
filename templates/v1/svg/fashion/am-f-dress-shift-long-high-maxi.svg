@@ -1,7 +1,7 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="234 32 532 990" width="532" height="990">
-<path d="M500 82 C537.2 82 558 69.2 560 60 L640 86 L722.9 609.5 L651.8 620.7 C638.9 429.4 631.2 314.5 626 238 C646 459.1 707.9 753.9 737.9 975 C654.6 991.7 571.4 994 500 994 C428.6 994 345.4 991.7 262.1 975 C292.1 753.9 354 459.1 374 238 C368.8 314.5 361.1 429.4 348.2 620.7 L277.1 609.5 L360 86 L440 60 C442 69.2 462.8 82 500 82 Z" fill="none" stroke="#000" stroke-width="6.6" stroke-linejoin="round" stroke-linecap="round"/>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="164 32 672 990" width="672" height="990">
+<path d="M500 82 C537.2 82 558 69.2 560 60 L640 86 L808.4 524.8 L743.1 549.9 C684.5 393.9 649.4 300.4 626 238 C646 459.1 707.9 753.9 737.9 975 C654.6 991.7 571.4 994 500 994 C428.6 994 345.4 991.7 262.1 975 C292.1 753.9 354 459.1 374 238 C350.6 300.4 315.5 393.9 256.9 549.9 L191.6 524.8 L360 86 L440 60 C442 69.2 462.8 82 500 82 Z" fill="none" stroke="#000" stroke-width="6.6" stroke-linejoin="round" stroke-linecap="round"/>
 <path d="M640 86 C628 146 630 178 626 238 M360 86 C372 146 370 178 374 238" fill="none" stroke="#000" stroke-width="4.4" stroke-linejoin="round" stroke-linecap="round"/>
-<path d="M719.5 587.7 L648.4 599 M280.5 587.7 L351.6 599" fill="none" stroke="#000" stroke-width="3.3" stroke-linejoin="round" stroke-linecap="round" stroke-dasharray="11 9.9"/>
+<path d="M800.5 504.2 L735.2 529.3 M199.5 504.2 L264.8 529.3" fill="none" stroke="#000" stroke-width="3.3" stroke-linejoin="round" stroke-linecap="round" stroke-dasharray="11 9.9"/>
 <path d="M440 60 Q500 69.9 560 60" fill="none" stroke="#000" stroke-width="4.4" stroke-linejoin="round" stroke-linecap="round"/>
 <path d="M576 64 C570 83 542 100 500 100 C458 100 430 83 424 64" fill="none" stroke="#000" stroke-width="3.3" stroke-linejoin="round" stroke-linecap="round" stroke-dasharray="11 9.9"/>
 <path d="M731.9 949 C654.6 965.7 571.4 968 500 968 C428.6 968 345.4 965.7 268.1 949" fill="none" stroke="#000" stroke-width="3.3" stroke-linejoin="round" stroke-linecap="round" stroke-dasharray="11 9.9"/>

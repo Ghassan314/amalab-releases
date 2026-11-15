@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="232 88 536 762" width="536" height="762">
+<defs><mask id="m0" maskUnits="userSpaceOnUse" x="-500" y="-500" width="2000" height="2000"><rect x="-500" y="-500" width="2000" height="2000" fill="#fff"/><path d="M370 120 L630 120 L630 166 L370 166 Z" fill="#000"/></mask></defs>
+<path d="M500 166 L630 166 C640 240 650 260 650 330 C652 490 746 625.2 740 822 L530 822 C526 654.6 522 490 500 450 C478 490 474 654.6 470 822 L260 822 C254 625.2 348 490 350 330 C350 260 360 240 370 166 L500 166 Z" fill="none" stroke="#000" stroke-width="5.08" stroke-linejoin="round" stroke-linecap="round" mask="url(#m0)"/>
+<path d="M370 120 L630 120 L630 166 L370 166 Z" fill="none" stroke="#000" stroke-width="5.08" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M376 130 L624 130 M376 156 L624 156" fill="none" stroke="#000" stroke-width="2.54" stroke-linejoin="round" stroke-linecap="round" stroke-dasharray="8.5 7.6"/>
+<path d="M402 114 L418 114 L418 172 L402 172 Z" fill="none" stroke="#000" stroke-width="3.39" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M582 114 L598 114 L598 172 L582 172 Z" fill="none" stroke="#000" stroke-width="3.39" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M370 114 L386 114 L386 172 L370 172 Z" fill="none" stroke="#000" stroke-width="3.39" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M614 114 L630 114 L630 172 L614 172 Z" fill="none" stroke="#000" stroke-width="3.39" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M491 143 a9 9 0 1 0 18 0 a9 9 0 1 0 -18 0 Z" fill="none" stroke="#000" stroke-width="3.39" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M500 166 L500 430" fill="none" stroke="#000" stroke-width="3.39" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M536 170 L536 370 Q536 410 504 420" fill="none" stroke="#000" stroke-width="2.54" stroke-linejoin="round" stroke-linecap="round" stroke-dasharray="8.5 7.6"/>
+<path d="M560 166 C580 250 620 270 650 280 M440 166 C420 250 380 270 350 280" fill="none" stroke="#000" stroke-width="3.39" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M736 796 L534 796 M264 796 L466 796" fill="none" stroke="#000" stroke-width="2.54" stroke-linejoin="round" stroke-linecap="round" stroke-dasharray="8.5 7.6"/>
+</svg>

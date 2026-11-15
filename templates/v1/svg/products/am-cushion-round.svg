@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="212 212 576 576" width="576" height="576">
+<defs><mask id="m0" maskUnits="userSpaceOnUse" x="-500" y="-500" width="2000" height="2000"><rect x="-500" y="-500" width="2000" height="2000" fill="#fff"/><path d="M482 500 a18 18 0 1 0 36 0 a18 18 0 1 0 -36 0 Z" fill="#000"/></mask></defs>
+<path d="M240 500 a260 260 0 1 0 520 0 a260 260 0 1 0 -520 0 Z" fill="none" stroke="#000" stroke-width="3.84" stroke-linejoin="round" stroke-linecap="round" mask="url(#m0)"/>
+<path d="M258 500 a242 242 0 1 0 484 0 a242 242 0 1 0 -484 0 Z" fill="none" stroke="#000" stroke-width="2.56" stroke-linejoin="round" stroke-linecap="round" mask="url(#m0)"/>
+<path d="M482 500 a18 18 0 1 0 36 0 a18 18 0 1 0 -36 0 Z" fill="none" stroke="#000" stroke-width="3.2" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M524 500 L730 500" fill="none" stroke="#000" stroke-width="1.28" stroke-linejoin="round" stroke-linecap="round" stroke-dasharray="3.8 5.1"/>
+<path d="M520.7846096908265 512 L699.1858428704209 615" fill="none" stroke="#000" stroke-width="1.28" stroke-linejoin="round" stroke-linecap="round" stroke-dasharray="3.8 5.1"/>
+<path d="M512 520.7846096908265 L615 699.1858428704209" fill="none" stroke="#000" stroke-width="1.28" stroke-linejoin="round" stroke-linecap="round" stroke-dasharray="3.8 5.1"/>
+<path d="M500 524 L500 730" fill="none" stroke="#000" stroke-width="1.28" stroke-linejoin="round" stroke-linecap="round" stroke-dasharray="3.8 5.1"/>
+<path d="M488 520.7846096908265 L385.00000000000006 699.1858428704209" fill="none" stroke="#000" stroke-width="1.28" stroke-linejoin="round" stroke-linecap="round" stroke-dasharray="3.8 5.1"/>
+<path d="M479.2153903091735 512 L300.8141571295791 615" fill="none" stroke="#000" stroke-width="1.28" stroke-linejoin="round" stroke-linecap="round" stroke-dasharray="3.8 5.1"/>
+<path d="M476 500 L270 500" fill="none" stroke="#000" stroke-width="1.28" stroke-linejoin="round" stroke-linecap="round" stroke-dasharray="3.8 5.1"/>
+<path d="M479.2153903091735 488 L300.81415712957914 385" fill="none" stroke="#000" stroke-width="1.28" stroke-linejoin="round" stroke-linecap="round" stroke-dasharray="3.8 5.1"/>
+<path d="M488 479.2153903091735 L384.9999999999999 300.81415712957914" fill="none" stroke="#000" stroke-width="1.28" stroke-linejoin="round" stroke-linecap="round" stroke-dasharray="3.8 5.1"/>
+<path d="M500 476 L499.99999999999994 270" fill="none" stroke="#000" stroke-width="1.28" stroke-linejoin="round" stroke-linecap="round" stroke-dasharray="3.8 5.1"/>
+<path d="M512 479.2153903091735 L615 300.81415712957914" fill="none" stroke="#000" stroke-width="1.28" stroke-linejoin="round" stroke-linecap="round" stroke-dasharray="3.8 5.1"/>
+<path d="M520.7846096908265 488 L699.1858428704209 384.9999999999999" fill="none" stroke="#000" stroke-width="1.28" stroke-linejoin="round" stroke-linecap="round" stroke-dasharray="3.8 5.1"/>
+</svg>

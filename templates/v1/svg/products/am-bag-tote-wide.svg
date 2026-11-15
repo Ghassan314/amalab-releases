@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="192 252 616 596" width="616" height="596">
+<defs><mask id="m0" maskUnits="userSpaceOnUse" x="-500" y="-500" width="2000" height="2000"><rect x="-500" y="-500" width="2000" height="2000" fill="#fff"/><path d="M220 420 L780 420 L780 820 L220 820 Z" fill="#000" fill-rule="evenodd"/></mask></defs>
+<path d="M326.2 430 C326.2 230 673.8 230 673.8 430 L639.8 430 C639.8 270.8 360.2 270.8 360.2 430 Z" fill="none" stroke="#000" stroke-width="4.11" stroke-linejoin="round" stroke-linecap="round" mask="url(#m0)"/>
+<path d="M333.2 428 C333.2 260 666.8 260 666.8 428" fill="none" stroke="#000" stroke-width="2.05" stroke-linejoin="round" stroke-linecap="round" stroke-dasharray="6.8 6.2" mask="url(#m0)"/>
+<path d="M220 420 L780 420 L780 820 L220 820 Z" fill="none" stroke="#000" stroke-width="4.11" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M234 446 L766 446" fill="none" stroke="#000" stroke-width="2.05" stroke-linejoin="round" stroke-linecap="round" stroke-dasharray="6.8 6.2"/>
+<path d="M323.2 430 L323.2 480 L363.2 480 L363.2 430 M323.2 430 L363.2 480 M363.2 430 L323.2 480" fill="none" stroke="#000" stroke-width="2.74" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M636.8 430 L636.8 480 L676.8 480 L676.8 430 M636.8 430 L676.8 480 M676.8 430 L636.8 480" fill="none" stroke="#000" stroke-width="2.74" stroke-linejoin="round" stroke-linecap="round"/>
+</svg>

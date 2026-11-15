@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="182 210 636 508" width="636" height="508">
+<defs><mask id="m0" maskUnits="userSpaceOnUse" x="-500" y="-500" width="2000" height="2000"><rect x="-500" y="-500" width="2000" height="2000" fill="#fff"/><path d="M220 640 L780 640 L790 690 L210 690 Z" fill="#000"/><path d="M476 248 A24 10 0 1 0 524 248 A24 10 0 1 0 476 248 Z" fill="#000"/></mask><mask id="m1" maskUnits="userSpaceOnUse" x="-500" y="-500" width="2000" height="2000"><rect x="-500" y="-500" width="2000" height="2000" fill="#fff"/><path d="M476 248 A24 10 0 1 0 524 248 A24 10 0 1 0 476 248 Z" fill="#000"/></mask></defs>
+<path d="M250 640 C250 360 360 250 500 250 C640 250 750 360 750 640 Z" fill="none" stroke="#000" stroke-width="4.24" stroke-linejoin="round" stroke-linecap="round" mask="url(#m0)"/>
+<path d="M220 640 L780 640 L790 690 L210 690 Z" fill="none" stroke="#000" stroke-width="4.24" stroke-linejoin="round" stroke-linecap="round" mask="url(#m1)"/>
+<path d="M500 250 L500 640" fill="none" stroke="#000" stroke-width="2.83" stroke-linejoin="round" stroke-linecap="round" mask="url(#m1)"/>
+<path d="M500 250 C420 290 360 420 345 640" fill="none" stroke="#000" stroke-width="2.83" stroke-linejoin="round" stroke-linecap="round" mask="url(#m1)"/>
+<path d="M500 250 C580 290 640 420 655 640" fill="none" stroke="#000" stroke-width="2.83" stroke-linejoin="round" stroke-linecap="round" mask="url(#m1)"/>
+<path d="M476 248 A24 10 0 1 0 524 248 A24 10 0 1 0 476 248 Z" fill="none" stroke="#000" stroke-width="3.53" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M392 360 a8 8 0 1 0 16 0 a8 8 0 1 0 -16 0 Z" fill="none" stroke="#000" stroke-width="2.83" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M592 360 a8 8 0 1 0 16 0 a8 8 0 1 0 -16 0 Z" fill="none" stroke="#000" stroke-width="2.83" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M232 664 L768 664" fill="none" stroke="#000" stroke-width="2.12" stroke-linejoin="round" stroke-linecap="round" stroke-dasharray="7.1 6.4"/>
+</svg>

@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="74 172 852 438" width="852" height="438">
+<defs><mask id="m0" maskUnits="userSpaceOnUse" x="-500" y="-500" width="2000" height="2000"><rect x="-500" y="-500" width="2000" height="2000" fill="#fff"/><path d="M382 200 L618 200 L618 248 L382 248 Z" fill="#000"/></mask></defs>
+<path d="M500 248 L618 248 C628 346.7 857.9 445.4 897.9 530 C889.6 534.7 864.7 556.7 848.2 558 C831.6 559.3 815 536.6 798.4 538 C781.8 539.3 765.3 564.6 748.7 565.9 C732.1 567.3 715.5 544.6 699 545.9 C682.4 547.2 665.8 572.6 649.2 573.9 C632.6 575.2 616.1 552.5 599.5 553.9 C582.9 555.2 566.3 580.5 549.7 581.9 C533.2 583.2 516.6 561.8 500 561.8 C483.4 561.8 466.8 583.2 450.3 581.9 C433.7 580.5 417.1 555.2 400.5 553.9 C383.9 552.5 367.4 575.2 350.8 573.9 C334.2 572.6 317.6 547.2 301 545.9 C284.5 544.6 267.9 567.3 251.3 565.9 C234.7 564.6 218.2 539.3 201.6 538 C185 536.6 168.4 559.3 151.8 558 C135.3 556.7 110.4 534.7 102.1 530 C142.1 445.4 372 346.7 382 248 L500 248 Z" fill="none" stroke="#000" stroke-width="5.68" stroke-linejoin="round" stroke-linecap="round" mask="url(#m0)"/>
+<path d="M382 200 L618 200 L618 248 L382 248 Z" fill="none" stroke="#000" stroke-width="5.68" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M388 210 L612 210 M388 238 L612 238" fill="none" stroke="#000" stroke-width="2.84" stroke-linejoin="round" stroke-linecap="round" stroke-dasharray="9.5 8.5"/>
+<path d="M798.4 540 C796.4 474.2 691 426.3 685 378.5 M201.6 540 C203.6 474.2 309 426.3 315 378.5" fill="none" stroke="#000" stroke-width="2.84" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M699 547.9 C697 480.4 629.3 431.2 623.3 382.1 M301 547.9 C303 480.4 370.7 431.2 376.7 382.1" fill="none" stroke="#000" stroke-width="2.84" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M599.5 555.9 C597.5 486.6 567.7 436.1 561.7 385.6 M400.5 555.9 C402.5 486.6 432.3 436.1 438.3 385.6" fill="none" stroke="#000" stroke-width="2.84" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M585 224 a7 7 0 1 0 14 0 a7 7 0 1 0 -14 0 Z" fill="none" stroke="#000" stroke-width="3.79" stroke-linejoin="round" stroke-linecap="round"/>
+</svg>

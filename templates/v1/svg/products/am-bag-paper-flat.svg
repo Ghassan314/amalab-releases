@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="212 256 576 652" width="576" height="652">
+<defs><mask id="m0" maskUnits="userSpaceOnUse" x="-500" y="-500" width="2000" height="2000"><rect x="-500" y="-500" width="2000" height="2000" fill="#fff"/><path d="M240 400 L640 400 L640 880 L240 880 Z" fill="#000"/></mask></defs>
+<path d="M640 400 L760 350 L760 830 L640 880 Z" fill="none" stroke="#000" stroke-width="4.35" stroke-linejoin="round" stroke-linecap="round" mask="url(#m0)"/>
+<path d="M700 375 L704 460 L700 855" fill="none" stroke="#000" stroke-width="2.9" stroke-linejoin="round" stroke-linecap="round" mask="url(#m0)"/>
+<path d="M640 810 L704 760 L760 760" fill="none" stroke="#000" stroke-width="2.9" stroke-linejoin="round" stroke-linecap="round" mask="url(#m0)"/>
+<path d="M360 420 L360 290 L520 290 L520 420" fill="none" stroke="#000" stroke-width="13.04" stroke-linejoin="round" stroke-linecap="butt" mask="url(#m0)"/>
+<path d="M240 400 L640 400 L640 880 L240 880 Z" fill="none" stroke="#000" stroke-width="4.35" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M240 470 L640 470" fill="none" stroke="#000" stroke-width="2.9" stroke-linejoin="round" stroke-linecap="round"/>
+</svg>

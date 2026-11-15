@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="198 168 470 682" width="470" height="682">
+<defs><mask id="m0" maskUnits="userSpaceOnUse" x="-500" y="-500" width="2000" height="2000"><rect x="-500" y="-500" width="2000" height="2000" fill="#fff"/><path d="M640 220 L640 768 Q640 794.8 618 798.3 A118 23.8 0 0 1 382 798.3 Q360 794.8 360 768 L360 220 A140 23.8 0 0 0 640 220 Z" fill="#000"/><path d="M360 220 A140 23.8 0 1 0 640 220 A140 23.8 0 1 0 360 220 Z" fill="#000"/></mask><mask id="m1" maskUnits="userSpaceOnUse" x="-500" y="-500" width="2000" height="2000"><rect x="-500" y="-500" width="2000" height="2000" fill="#fff"/><path d="M360 220 A140 23.8 0 1 0 640 220 A140 23.8 0 1 0 360 220 Z" fill="#000"/></mask></defs>
+<path d="M366 311.2 C178.5 291.2 178.5 684.6 366 664.6 L366 618.6 C249 634.6 249 341.2 366 357.2 Z" fill="none" stroke="#000" stroke-width="4.55" stroke-linejoin="round" stroke-linecap="round" mask="url(#m0)"/>
+<path d="M640 220 L640 768 Q640 794.8 618 798.3 A118 23.8 0 0 1 382 798.3 Q360 794.8 360 768 L360 220 A140 23.8 0 0 0 640 220 Z" fill="none" stroke="#000" stroke-width="4.55" stroke-linejoin="round" stroke-linecap="round" mask="url(#m1)"/>
+<path d="M360 220 A140 23.8 0 1 0 640 220 A140 23.8 0 1 0 360 220 Z" fill="none" stroke="#000" stroke-width="4.55" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M372 221 A128 19.8 0 1 0 628 221 A128 19.8 0 1 0 372 221 Z" fill="none" stroke="#000" stroke-width="3.03" stroke-linejoin="round" stroke-linecap="round"/>
+</svg>

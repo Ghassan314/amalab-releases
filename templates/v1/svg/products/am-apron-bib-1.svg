@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="112 146 776 742" width="776" height="742">
+<defs><mask id="m0" maskUnits="userSpaceOnUse" x="-500" y="-500" width="2000" height="2000"><rect x="-500" y="-500" width="2000" height="2000" fill="#fff"/><path d="M380 230 L620 230 L620 420 C640 440 700 440 720 440 L740 860 L260 860 L280 440 C300 440 360 440 380 420 Z" fill="#000"/></mask></defs>
+<path d="M380 230 Q500 120 620 230" fill="none" stroke="#000" stroke-width="6.9" stroke-linejoin="round" stroke-linecap="round" mask="url(#m0)"/>
+<path d="M380 230 L620 230 L620 420 C640 440 700 440 720 440 L740 860 L260 860 L280 440 C300 440 360 440 380 420 Z" fill="none" stroke="#000" stroke-width="5.17" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M392 244 L608 244" fill="none" stroke="#000" stroke-width="2.59" stroke-linejoin="round" stroke-linecap="round" stroke-dasharray="8.6 7.8"/>
+<path d="M280 450 C200 470 170 520 140 600" fill="none" stroke="#000" stroke-width="6.04" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M720 450 C800 470 830 520 860 600" fill="none" stroke="#000" stroke-width="6.04" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M400 600 L600 600 L600 760 L400 760 Z" fill="none" stroke="#000" stroke-width="3.45" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M272 840 L728 840" fill="none" stroke="#000" stroke-width="2.59" stroke-linejoin="round" stroke-linecap="round" stroke-dasharray="8.6 7.8"/>
+</svg>

@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="172 252 656 496" width="656" height="496">
+<path d="M200 280 H800 V720 H200 Z M240 320 H760 V680 H240 Z" fill="none" stroke="#000" stroke-width="4.37" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M200 280 L240 320 M800 280 L760 320 M800 720 L760 680 M200 720 L240 680" fill="none" stroke="#000" stroke-width="2.92" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M300 380 H700 V620 H300 Z" fill="none" stroke="#000" stroke-width="2.92" stroke-linejoin="round" stroke-linecap="round"/>
+</svg>

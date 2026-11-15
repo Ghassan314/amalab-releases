@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="182 272 520 496" width="520" height="496">
+<defs><mask id="m0" maskUnits="userSpaceOnUse" x="-500" y="-500" width="2000" height="2000"><rect x="-500" y="-500" width="2000" height="2000" fill="#fff"/><path d="M675 330 L675 678 Q675 706 653 710.4 A153 29.8 0 0 1 347 710.4 Q325 706 325 678 L325 330 A175 29.8 0 0 0 675 330 Z" fill="#000"/><path d="M325 330 A175 29.8 0 1 0 675 330 A175 29.8 0 1 0 325 330 Z" fill="#000"/></mask><mask id="m1" maskUnits="userSpaceOnUse" x="-500" y="-500" width="2000" height="2000"><rect x="-500" y="-500" width="2000" height="2000" fill="#fff"/><path d="M325 330 A175 29.8 0 1 0 675 330 A175 29.8 0 1 0 325 330 Z" fill="#000"/></mask></defs>
+<path d="M331 389.2 C163 359.2 173.5 526.84 331 531.428 L331 503.9 C236.5 492.43 236.5 415.2 331 425.2 Z" fill="none" stroke="#000" stroke-width="3.6" stroke-linejoin="round" stroke-linecap="round" mask="url(#m0)"/>
+<path d="M675 330 L675 678 Q675 706 653 710.4 A153 29.8 0 0 1 347 710.4 Q325 706 325 678 L325 330 A175 29.8 0 0 0 675 330 Z" fill="none" stroke="#000" stroke-width="3.6" stroke-linejoin="round" stroke-linecap="round" mask="url(#m1)"/>
+<path d="M325 330 A175 29.8 0 1 0 675 330 A175 29.8 0 1 0 325 330 Z" fill="none" stroke="#000" stroke-width="3.6" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M337 331 A163 25.8 0 1 0 663 331 A163 25.8 0 1 0 337 331 Z" fill="none" stroke="#000" stroke-width="2.4" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M325 346 A175 29.750000000000004 0 0 0 675 346" fill="none" stroke="#000" stroke-width="2.4" stroke-linejoin="round" stroke-linecap="round"/>
+</svg>
